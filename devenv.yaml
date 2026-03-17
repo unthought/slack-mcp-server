@@ -1,0 +1,6 @@
+inputs:
+  nixpkgs:
+    url: github:cachix/devenv-nixpkgs/rolling
+  plinth:
+    url: github:unthought/plinth
+    flake: false
